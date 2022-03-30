@@ -54,13 +54,13 @@ Les présents termes du contrat de licence constituent un contrat entre vous et 
 
 3. **CHAMP D’APPLICATION DE LA LICENCE.** Le logiciel n’est pas vendu mais concédé sous licence. Microsoft se réserve tous les autres droits. Sauf si la réglementation applicable vous confère d’autres droits, nonobstant la présente limitation, vous n’êtes pas autorisé à :
 
-    1.  contourner les restrictions techniques contenues dans le logiciel qui vous permettent de l’utiliser d’une certaine façon ;
+    1. contourner les restrictions techniques contenues dans le logiciel qui vous permettent de l’utiliser d’une certaine façon ;
 
-    2.  reconstituer la logique du logiciel, le décompiler ou le désassembler, ou tenter de quelque autre manière de dériver le code source du logiciel, sauf si et dans la mesure où les termes du contrat de licence tiers régissant l’utilisation des composants open source éventuellement inclus dans le logiciel vous y autorisent ;
+    2. reconstituer la logique du logiciel, le décompiler ou le désassembler, ou tenter de quelque autre manière de dériver le code source du logiciel, sauf si et dans la mesure où les termes du contrat de licence tiers régissant l’utilisation des composants open source éventuellement inclus dans le logiciel vous y autorisent ;
 
-    3.  supprimer, réduire, bloquer ou modifier toute mention légale de Microsoft ou de ses fournisseurs dans le logiciel ;
+    3. supprimer, réduire, bloquer ou modifier toute mention légale de Microsoft ou de ses fournisseurs dans le logiciel ;
 
-    4.  utiliser le logiciel d’une manière contraire à la législation ou pour créer ou propager des logiciels malveillants ; ou
+    4. utiliser le logiciel d’une manière contraire à la législation ou pour créer ou propager des logiciels malveillants ; ou
 
     5. partager, publier, distribuer ou louer le logiciel, le fournir en tant qu'offre autonome utilisable par autrui, ou transférer le logiciel ou ce contrat à un tiers.
 
@@ -86,7 +86,7 @@ Les présents termes du contrat de licence constituent un contrat entre vous et 
 
     10. N’aidez pas des tiers à transgresser ces règles.
 
-5. **RESTRICTIONS À L’EXPORTATION**. Vous devez vous conformer à toutes les lois et réglementations nationales et internationales en matière d’exportation concernant le logiciel, qui contiennent des restrictions en matière de destinations, d’utilisateurs finaux et d’utilisation finale. Pour plus d’informations sur les restrictions à l’exportation, consultez le site [<u>https://aka.ms/exporting</u>](https://aka.ms/exporting).
+5. **RESTRICTIONS À L’EXPORTATION**. Vous devez vous conformer à toutes les lois et réglementations nationales et internationales en matière d’exportation concernant le logiciel, qui contiennent des restrictions en matière de destinations, d’utilisateurs finaux et d’utilisation finale. Pour plus d’informations sur les restrictions à l’exportation, consultez le site [https://aka.ms/exporting](https://aka.ms/exporting).
 
 6. **SERVICES D’ASSISTANCE TECHNIQUE.** Microsoft n’a aucune obligation de fournir des services d’assistance technique pour le logiciel en vertu de ce contrat. Les services d’assistance technique sont fournis « en l’état », « avec toutes les imperfections » et sans garantie d’aucune sorte. 
 
@@ -114,6 +114,6 @@ Les présents termes du contrat de licence constituent un contrat entre vous et 
 
 12. **LIMITATION ET EXCLUSION DE RESPONSABILITÉ EN CAS DE DOMMAGES. SI VOUS AVEZ DES MOTIFS FONDANT UNE RÉCLAMATION DE DOMMAGES-INTÉRÊTS AUPRÈS DE MICROSOFT OU DE SES FOURNISSEURS, NONOBSTANT L’EXCLUSION DE GARANTIE PRÉCÉDENTE, VOUS NE POUVEZ OBTENIR QU’UNE INDEMNISATION EN CAS DE DOMMAGES DIRECTS LIMITÉE À CINQ DOLLARS AMÉRICAINS (5,00 USD). VOUS NE POUVEZ PRÉTENDRE À AUCUNE INDEMNISATION POUR LES AUTRES DOMMAGES, Y COMPRIS LES DOMMAGES SPÉCIAUX, INDIRECTS, ACCESSOIRES OU INCIDENTS ET LES PERTES DE BÉNÉFICES.**
 
-    Cette limitation s’applique (a) à toute affaire liée au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des applications tierces ; et (b) aux réclamations pour manquement aux termes du contrat ou violation de garantie ou de condition, responsabilité sans faute, négligence ou autre délit ; ou à toute autre réclamation ; selon le cas, dans la limite autorisée par la réglementation applicable.
+    **Cette limitation s’applique (a) à toute affaire liée au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des applications tierces ; et (b) aux réclamations pour manquement aux termes du contrat ou violation de garantie ou de condition, responsabilité sans faute, négligence ou autre délit ; ou à toute autre réclamation ; selon le cas, dans la limite autorisée par la réglementation applicable.**
 
-    Elle s’applique également même si Microsoft avait ou aurait dû avoir connaissance de l’éventualité de tels dommages. La limitation ou l’exclusion ci-dessus peut également ne pas vous être applicable si votre État, province ou pays n’autorise pas l’exclusion ou la limitation de responsabilité pour les dommages incidents, indirects ou de quelque nature que ce soit.
+    **Elle s’applique également même si Microsoft avait ou aurait dû avoir connaissance de l’éventualité de tels dommages. La limitation ou l’exclusion ci-dessus peut également ne pas vous être applicable si votre État, province ou pays n’autorise pas l’exclusion ou la limitation de responsabilité pour les dommages incidents, indirects ou de quelque nature que ce soit.**
