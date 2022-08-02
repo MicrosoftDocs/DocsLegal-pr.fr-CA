@@ -5,11 +5,11 @@ ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: fr-CA
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189138"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347353"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Les engagements RGPD de Microsoft envers les clients des produits logiciels d’entreprise couramment disponibles
 
@@ -21,7 +21,7 @@ Microsoft s’est engagée au plein respect du RGPD et à offrir un éventail de
 
 **Est-ce que Microsoft prend des engagements envers ses clients en ce qui concerne le RGPD?**
 
-Oui. Le RGPD exige que les responsables du traitement (tels que les organismes et les développeurs qui utilisent les services en ligne d’entreprise de Microsoft) ne fassent appel qu’à des sous-traitants (tels que Microsoft) qui traitent des données à caractère personnel au nom du responsable du traitement et qui présentent des garanties suffisantes pour satisfaire aux exigences principales du RGPD. Microsoft s'engage envers tous les clients des programmes de gestion commerciale de licences dans l'Addendum. Les clients des autres logiciels d’entreprise couramment disponibles et acquis sous licence de Microsoft ou ses affiliés bénéficient également des avantages des engagements RGPD de Microsoft, tels qu’ils sont décrits dans la présente notification, dans la mesure où le logiciel traite les données à caractère personnel.
+Oui. Le RGPD exige que les responsables du traitement (tels que les organismes et les développeurs qui utilisent les services en ligne d’entreprise de Microsoft) ne fassent appel qu’à des sous-traitants (tels que Microsoft) qui traitent des données à caractère personnel au nom du responsable du traitement et qui présentent des garanties suffisantes pour satisfaire aux exigences principales du RGPD. Microsoft s’engage envers tous les clients des programmes de gestion commerciale de licences dans l’Addendum. Les clients des autres logiciels d’entreprise couramment disponibles et acquis sous licence de Microsoft ou ses affiliés bénéficient également des avantages des engagements RGPD de Microsoft, tels qu’ils sont décrits dans la présente notification, dans la mesure où le logiciel traite les données à caractère personnel.
 
 **Où puis-je trouver les engagements contractuels de Microsoft en ce qui concerne le RGPD?**
 
