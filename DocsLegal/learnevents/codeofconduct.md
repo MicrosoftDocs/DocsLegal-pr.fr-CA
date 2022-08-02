@@ -1,15 +1,15 @@
 ---
 # required metadata
 
-title: Code de conduite de Learn TV
-description: Code of Conduct for Microsoft Learn TV
+title: Code de conduite de Learn
+description: Code de conduite pour les événements diffusés en continu sur Microsoft Learn
 ms.topic: article
 layout: ContentPage
 ms.author: brstegge
 ms.date: 11/02/2020
 ---
 
-# **Code de conduite de Learn TV**
+# **Code de conduite pour les événements Learn**
 
 Microsoft a pour mission de donner à chaque personne et à chaque organisation sur la planète les moyens d'accomplir plus de choses. Cela inclut tous les événements et rassemblements Microsoft, y compris sur les plateformes numériques, où nous cherchons à créer une expérience respectueuse, amicale, amusante et inclusive pour tous les participants.
 
