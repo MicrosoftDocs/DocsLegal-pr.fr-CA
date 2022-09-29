@@ -1,15 +1,15 @@
 ---
 title: Règlement général sur la protection des données (RGPD)
-description: RGPD docs.microsoft.com.
+description: RGPD learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: fr-CA
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347353"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979444"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Les engagements RGPD de Microsoft envers les clients des produits logiciels d’entreprise couramment disponibles
 
@@ -17,7 +17,7 @@ ms.locfileid: "141347353"
 
 Le Règlement général sur la protection des données (RGPD) de l’Union européenne établit un seuil important à l’échelle mondiale en matière de droits à la vie privée, de sécurité de l’information et de conformité. Chez Microsoft, nous sommes d’avis que la protection des données personnelles est un droit fondamental et que le RGPD constitue un grand pas vers l’avant en ce qui a trait à la protection et au respect des droits à la vie privée des personnes.     
 
-Microsoft s’est engagée au plein respect du RGPD et à offrir un éventail de produits, de fonctionnalités, de documentation et de ressources pour aider ses clients à respecter leurs obligations au titre du RGPD. Ce qui suit décrit les engagements contractuels de Microsoft envers ses clients quant aux données à caractère personnel recueillies des logiciels d’entreprise. (Pour les logiciels couverts par une licence des programmes de gestion de licences commerciales Microsoft), consultez l’Addendum sur la protection des données des produits et des services en ligne à l'adresse http://aka.ms/dpa)
+Microsoft s’est engagée au plein respect du RGPD et à offrir un éventail de produits, de fonctionnalités, de documentation et de ressources pour aider ses clients à respecter leurs obligations au titre du RGPD. Ce qui suit décrit les engagements contractuels de Microsoft envers ses clients quant aux données à caractère personnel recueillies par les logiciels d’entreprise. (Pour les logiciels couverts par une licence des programmes de gestion de licences commerciales Microsoft, consultez l’Addendum sur la protection des données des produits et des services en ligne à l'adresse http://aka.ms/dpa) )
 
 **Est-ce que Microsoft prend des engagements envers ses clients en ce qui concerne le RGPD?**
 
@@ -25,7 +25,7 @@ Oui. Le RGPD exige que les responsables du traitement (tels que les organismes e
 
 **Où puis-je trouver les engagements contractuels de Microsoft en ce qui concerne le RGPD?**
 
-Vous trouverez les engagements contractuels de Microsoft à l’égard du RGPD (conditions) en pièce jointe de l’Addendum. Cette pièce se nomme Règlement général sur la protection des données de l’Union européenne. Ces conditions engagent Microsoft envers les exigences des processeurs dans l'article 28 du RGPD et d'autres articles pertinents du RGPD. 
+Vous trouverez les engagements contractuels de Microsoft à l’égard du RGPD (conditions) en pièce jointe de l’Addendum. Cette pièce se nomme Règlement général sur la protection des données de l’Union européenne. Ces conditions engagent Microsoft envers les exigences des sous-traitants dans l'article 28 du RGPD et d'autres articles pertinents du RGPD. 
 
 À compter du 25 mai 2018, Microsoft applique toutes les conditions du RGPD à tous les clients des logiciels d’entreprise couramment disponibles et acquis sous licence de Microsoft ou ses affiliés, conformément aux conditions de licence des logiciels, quelle que soit la version du logiciel d’entreprise applicable, dans la mesure où Microsoft est un sous-traitant ou le sous-traitant d’un autre sous-traitant de données à caractère personnel relativement à un tel logiciel, et tant que Microsoft continue à offrir ou à prendre en charge ladite version. Les détails concernant le soutien se trouvent dans la Politique concernant le cycle de vie Microsoft à l'adresse https://support.microsoft.com/lifecycle.
 
