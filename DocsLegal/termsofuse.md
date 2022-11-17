@@ -1,21 +1,16 @@
 ---
+# required metadata
 title: Conditions d’utilisation
 description: Conditions d’utilisation pour la documentation sur learn.microsoft.com.
-keywords: ''
-author: ''
-manager: ''
+keywords: null
+author: null
+manager: null
 ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
-ms.technology: ''
+ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
-ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
-ms.translationtype: HT
-ms.contentlocale: fr-CA
-ms.lasthandoff: 10/21/2022
-ms.locfileid: "148103187"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com – Conditions d’utilisation
 
