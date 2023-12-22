@@ -6,27 +6,27 @@ keywords: null
 author: null
 manager: null
 ms.date: 09/17/2022
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ---
-# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com – Conditions d’utilisation
+# learn.microsoft.com – Conditions d’utilisation
 
-## <a name="acceptance-of-terms"></a>Acceptation des conditions d’utilisation
+## Acceptation des conditions d’utilisation
 
 Les présentes « Conditions d’utilisation » s’appliquent à votre utilisation du site web Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), de Tech Profile et de tous les services associés. Microsoft se réserve le droit de mettre à jour les CU à tout moment et sans vous en aviser. La dernière version des CU peut être consultée en cliquant sur le lien hypertexte « Conditions d’utilisation » se trouvant au bas de nos pages Web.
 
-## <a name="description-of-service"></a>Description des services
+## Description des services
 
 Au moyen du site web Microsoft Learn, de Tech Profile et des services associés, Microsoft fournit l’accès à de nombreuses ressources, notamment des didacticiels de formation interactifs, de la documentation, des vidéos, des outils de développement, des zones de téléchargement, des forums de communication et des informations sur les produits (collectivement, les « services »). Les services, y compris les mises à jour, les améliorations, les nouvelles fonctionnalités et/ou l'ajout de nouvelles propriétés Web, sont assujettis aux CU.
 
-## <a name="personal-and-non-commercial-use-limitation"></a>Limitation à une utilisation personnelle et non commerciale
+## Limitation à une utilisation personnelle et non commerciale
 
 À moins d’une indication contraire, les services se limitent à une utilisation personnelle et non commerciale. Vous n’êtes pas autorisé à modifier, à copier, à distribuer, à transmettre, à afficher publiquement, à exécuter, à reproduire, à publier, à concéder sous licence les informations, les logiciels, les produits ou les services obtenus des services, ni à les transférer, à les vendre ou à créer des œuvres dérivées à partir de ceux-ci (hormis pour votre utilisation personnelle et non commerciale) sans le consentement écrit préalable de Microsoft.
 
-## <a name="privacy-and-protection-of-personal-information"></a>Confidentialité et protection des renseignements personnels
+## Confidentialité et protection des renseignements personnels
 
 La confidentialité de vos données est importante pour nous. Veuillez lire [l’énoncé de confidentialité de Microsoft](https://privacy.microsoft.com/privacystatement) (l’« énoncé de confidentialité »), car il décrit les types de données que nous recueillons auprès de vous ou à l’aide de vos appareils, la façon dont nous utilisons vos données ainsi que les bases juridiques à notre disposition pour traiter ces données. L’énoncé de confidentialité décrit également la façon dont Microsoft utilise les soumissions (telles que définies dans les présentes conditions d’utilisation), commentaires, évaluations ou critiques des services, communications, fichiers, photos, documents, fichiers audio, œuvres numériques, vidéos en direct, vidéos et tout autre contenu que vous téléchargez, stockez, diffusez ou partagez au moyen des services (collectivement, « votre contenu »). Lorsque le traitement repose sur le consentement et dans la mesure permise par la loi, en acceptant les présentes conditions d’utilisation, vous consentez à ce que Microsoft recueille, utilise et divulgue votre contenu et vos données conformément aux dispositions de l’énoncé de confidentialité. Dans certains cas, nous fournirons un avis distinct et nous demanderons votre consentement, comme indiqué dans l’énoncé de confidentialité.
 
@@ -34,7 +34,7 @@ La confidentialité de vos données est importante pour nous. Veuillez lire [l�
 
 Tout contenu que vous publiez publiquement peut également être consulté par d’autres personnes. Vous pouvez supprimer certains types de contenu après les avoir publiés. Toutefois, une fois publiés publiquement, les contenus ne peuvent pas tous être supprimés.
 
-## <a name="notice-specific-to-software-available-on-this-website"></a>Avis spécifique aux logiciels offert sur ce site Web
+## Avis spécifique aux logiciels offert sur ce site Web
 
 Les droits d’auteur de tout logiciel offert en téléchargement à partir des services (« logiciel ») sont réservés à Microsoft et/ou à ses fournisseurs. L’utilisation des logiciels est régie par les conditions du contrat de licence pour utilisateur final, si un tel contrat existe, lequel est inclus avec le logiciel ou l’accompagne (le « contrat de licence »). L’utilisateur final ne pourra pas installer de logiciels accompagnés par un contrat de licence ou incluant un contrat de licence, à moins d’accepter au préalable les conditions du contrat de licence. Le code ou les scripts de tiers liés audit site Web ou auxquels il y est fait référence vous sont concédés sous licence par les tiers à qui ce code appartient, et non par Microsoft.
 
@@ -46,14 +46,14 @@ LE LOGICIEL EST GARANTI, LE CAS ÉCHÉANT, UNIQUEMENT S’IL EST UTILISÉ CONFOR
 
 DROITS RESTREINTS. Tout logiciel téléchargé à partir des services pour le compte ou au nom des États-Unis d’Amérique, de ses agences et/ou de ses subdivisions (« gouvernement des États-Unis ») est fourni avec les droits restreints. L’utilisation, la copie ou la divulgation par le gouvernement des États-Unis sont assujetties aux restrictions indiquées dans le sous-paragraphe (c)(1)(ii) de la clause « Droits concernant les données techniques et le logiciel », dans DFARS 252.227-7013, ou dans les sous-paragraphes (c)(1) et (2) de la clause « Logiciel commercial - Droits restreints », dans 48 CFR 52.227-19, selon ce qui est applicable. Le fabricant est Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA.
 
-## <a name="notice-specific-to-documents-available-on-this-website"></a>Avis spécifique aux documents offerts sur ce site Web
+## Avis spécifique aux documents offerts sur ce site Web
 
 Certains documents peuvent être soumis à des conditions de licence explicites, distinctes de celles stipulées dans les présentes. En cas de conflit entre les conditions, les conditions de licence explicites prévaudront.
 Vous pouvez utiliser les documents (tels que les livres blancs, les communiqués de presse, les fiches techniques et les FAQ) provenant des services, à condition que (1) l’avis de droits d’auteur ci-après figure sur toutes les copies ainsi que sur le présent avis, (2) les présents documents provenant des Services ne soient utilisés qu’à titre d’information ou à titre personnel ou non commercial et ne soient pas copiés ni publiés sur un réseau ni diffusés sur un support d’information, et (3) nulle modification ne soit apportée sur lesdits documents. Les établissements d’enseignement accrédités, tels les écoles, universités et établissements d’enseignement supérieur privés/publics, sont autorisés à télécharger et à reproduire les documents pour les distribuer en classe. La distribution en dehors des salles de classe nécessite une autorisation écrite expresse. L’utilisation à d’autres fins est strictement interdite par la loi et passible de sanctions civiles et pénales. Les contrevenants seront poursuivis dans toute la mesure possible.
 
 Les documents mentionnés ci-dessus n’incluent ni la conception, ni la présentation du site Web Microsoft.com, ni quelque autre site détenu, géré, concédé ou contrôlé par Microsoft. Les éléments des sites Web Microsoft sont protégés en vertu des lois sur les présentations, les marques de commerce, la concurrence déloyale et autres lois, et ne doivent être ni copiés ni imités, en partie ou en totalité. Aucun logo, graphique, son ni aucune image provenant d’un site Web Microsoft ne doivent être copiés ni retransmis, sauf sur autorisation expresse de Microsoft.
 
-## <a name="disclaimer-and-limitation-of-liability-for-the-services"></a>Exonération et limitation de responsabilité pour les services
+## Exonération et limitation de responsabilité pour les services
 
 MICROSOFT ET/OU SES FOURNISSEURS RESPECTIFS NE FONT AUCUNE DÉCLARATION CONCERNANT LA PERTINENCE DES SERVICES OU DES DONNÉES CONTENUS DANS LES DOCUMENTS ET LES ÉLÉMENTS GRAPHIQUES ASSOCIÉS PUBLIÉS DANS LE CADRE DES SERVICES À QUELQUE FIN QUE CE SOIT. TOUS LES SERVICES, DOCUMENTS ET ÉLÉMENTS GRAPHIQUES ASSOCIÉS SONT FOURNIS « TELS QUELS » SANS AUCUNE GARANTIE. MICROSOFT ET/OU SES FOURNISSEURS RESPECTIFS DÉCLINENT PAR LA PRÉSENTE TOUTE GARANTIE ET CONDITION EN CE QUI CONCERNE CES SERVICES, CES DONNÉES ET CES ÉLÉMENTS GRAPHIQUES, Y COMPRIS TOUTE GARANTIE ET CONDITION PORTANT SUR LA QUALITÉ MARCHANDE, QUE CETTE GARANTIE OU CONDITION SOIT EXPRESSE, IMPLICITE OU LÉGALE, D’ADAPTATION À UNE FIN PARTICULIÈRE, DE TITRE OU DE NON-CONTREFAÇON. EN AUCUN CAS MICROSOFT ET/OU SES FOURNISSEURS RESPECTIFS NE POURRONT ÊTRE TENUS POUR RESPONSABLES DES DOMMAGES SPÉCIAUX, INDIRECTS OU CONSÉCUTIFS, NI DE TOUT AUTRE DOMMAGE RÉSULTANT D’UNE PERTE DE JOUISSANCE, DES DONNÉES OU DES PROFITS, QUE CE SOIT DANS LE CADRE DU CONTRAT, À LA SUITE D’UNE NÉGLIGENCE OU DE TOUTE AUTRE ACTION PRÉJUDICIABLE LIÉE AUX SERVICES, Y COMPRIS À L’UTILISATION OU AUX PERFORMANCES DE L’INFORMATION PROVENANT DES SERVICES, OU RÉSULTANT DES SERVICES.
 
@@ -61,7 +61,7 @@ LES DOCUMENTS ET LES GRAPHIQUES ASSOCIÉS PUBLIÉS SUR LES SERVICES PEUVENT COMP
 
 EN AUCUN CAS MICROSOFT ET/OU SES FOURNISSEURS RESPECTIFS NE POURRONT ÊTRE TENUS POUR RESPONSABLES DES DOMMAGES SPÉCIAUX, INDIRECTS OU CONSÉCUTIFS, NI DE TOUT AUTRE DOMMAGE RÉSULTANT D’UNE PERTE DE JOUISSANCE, DES DONNÉES OU DES PROFITS, QUE CE SOIT DANS LE CADRE DU CONTRAT, À LA SUITE D’UNE NÉGLIGENCE OU DE TOUTE AUTRE ACTION PRÉJUDICIABLE LIÉE À L’UTILISATION OU AUX PERFORMANCES DES SERVICES, DU LOGICIEL, DES DOCUMENTS, DE LA PRÉSENCE OU DE L’ABSENCE DES SERVICES OU DE L’INFORMATION PROVENANT DES SERVICES, OU RÉSULTANT D’UNE TELLE UTILISATION OU DE TELLES PERFORMANCES.
 
-## <a name="tech-profile-account-password-and-security"></a>Compte, mot de passe et sécurité de Tech Profile
+## Compte, mot de passe et sécurité de Tech Profile
 
 Vous pouvez avoir besoin d’un compte Microsoft, d’un compte Azure Active Directory ou d’un compte Tech Profile pour accéder à certains des services.
 
@@ -77,11 +77,11 @@ Si vous créez un compte Tech Profile au nom d’une entité, par exemple votre 
 
 Vous pouvez fermer votre compte Tech Profile en accédant aux paramètres de compte Tech Profile.
 
-## <a name="no-unlawful-or-prohibited-use"></a>Aucune utilisation illégale ou interdite
+## Aucune utilisation illégale ou interdite
 
 Comme condition à votre utilisation des services, vous vous engagez à ne pas utiliser les services dans un but illicite ou interdit par les présentes conditions d’utilisation et avis. Vous n’êtes pas autorisé à utiliser les services d’une quelconque manière qui pourrait endommager, désactiver, surcharger ou détériorer un serveur Microsoft ou les réseaux connectés à un serveur Microsoft, ou perturber l’utilisation et la jouissance des services par un tiers. Vous n’êtes pas autorisé à tenter d’accéder de façon non autorisée aux services, à d’autres comptes, systèmes informatiques ou réseaux connectés à un serveur Microsoft ni à tout autre service, par piratage informatique, extraction de mot de passe ou tout autre moyen. Vous n’êtes pas autorisé à acquérir ni à tenter d’acquérir des documents ou des données par d’autres moyens que ceux mis à votre disposition par les services.
 
-## <a name="use-of-services"></a>Utilisation des services
+## Utilisation des services
 
 Les services peuvent contenir des services de messagerie, des services télématiques, des services de clavardage, des groupes de nouvelles, des forums électroniques, des communautés, des pages web personnelles, des agendas, des albums photo, des archives et/ou d’autres moyens de communication ou de messagerie conçus pour vous permettre de communiquer avec autrui. Vous acceptez d’utiliser les services uniquement pour la publication, l’envoi et la réception de messages et de documents appropriés et, le cas échéant, en lien avec le service utilisé. À titre d’exemple, et sans s’y limiter, lors de l’utilisation des services, vous acceptez de ne pas :
 
@@ -111,7 +111,7 @@ Les documents téléversés vers les services peuvent être assujettis à des re
 
 Les vidéos et livres électroniques peuvent n’être fournis qu’en version anglaise. Si vous cliquez sur des liens, vous pourriez être redirigé vers un site aux États-Unis dont le contenu est uniquement offert en anglais.
 
-## <a name="materials-provided-to-microsoft-or-posted-to-the-services"></a>Documents fournis à Microsoft ou publiés sur l’un des services
+## Documents fournis à Microsoft ou publiés sur l’un des services
 
 Microsoft renonce à toute réclamation concernant le droit de propriété des documents que vous fournissez à Microsoft (y compris les commentaires et les suggestions) ou que vous publiez, téléchargez, insérez, ou transmettez à un service ou à des services associés pour être consultés par le public ou par les membres d’une communauté publique ou privée (chacun des documents étant désigné comme « soumission », et collectivement, comme « soumissions »). Cependant, la publication, le téléchargement, l’insertion, la mise en service ou la transmission (« publication ») de votre soumission autorise Microsoft, ses sociétés affiliées et ses sous-licenciés à utiliser votre soumission dans le cadre du fonctionnement de leurs activités Internet (y compris, mais sans s’y limiter, à l’ensemble des services Microsoft), y compris, mais sans s’y limiter, les droits de licence : à copier, à distribuer, à transmettre, à diffuser publiquement, à représenter, à reproduire, à publier, à traduire et à reformater votre soumission, à publier votre nom dans le cadre de votre soumission et à concéder la sous-licence de tels droits aux fournisseurs de services.
 
@@ -121,16 +121,16 @@ Par la publication d’une soumission, vous garantissez et déclarez que vous po
 
 En plus de la garantie et de la déclaration définies ci-dessus, par la publication d’une soumission contenant des images ou des photos, ou étant partiellement ou totalement composée d’images graphiques (« images »), vous garantissez et déclarez (a) que vous êtes le propriétaire des droits d’auteur de telles images, ou que le propriétaire de telles images vous a autorisé à les utiliser ainsi que tout autre contenu et/ou image contenus dans les images susmentionnées, conformément à l’utilisation que vous en faites et à l’objectif que vous vous donnez en vertu des présentes conditions et des services, (b) que vous avez les droits requis pour concéder les licences et les sous-licences décrites selon les présentes conditions et (c) que vous garantissez que toute personne représentée sur de telles images, le cas échéant, a donné son accord pour utiliser les images comme il est décrit dans les présentes conditions, y compris, à titre d’exemple, mais sans s’y limiter, la distribution, la représentation et la reproduction de telles images. Par la publication d’images, vous accordez (a) à tous les membres de votre communauté privée (pour toute image mise à la disposition des membres de cette communauté privée) et/ou (b) au public en général (pour toute image disponible sur les services, autre qu’une communauté privée), l’autorisation d’utiliser vos images conformément à l’utilisation autorisée par les présentes conditions à tout service (y compris, à titre d’exemple et sans s’y limiter, l’exécution d’impressions et d’éléments-cadeaux comportant de telles images) et y compris, mais sans s’y limiter, la licence non exclusive, libre de redevance et valable dans le monde entier : pour copier, distribuer, transmettre, diffuser publiquement, représenter, reproduire, publier, traduire et reformater vos images sans que votre nom n’apparaisse sur de telles images, et le droit de concéder la sous-licence de tels droits aux fournisseurs de services. Les licences ci-dessus accordées pour les images seront résiliées une fois que vous aurez supprimé de telles images des services, à condition qu’une telle résiliation ne touche pas les licences octroyées en lien avec les images avant de les supprimer complètement. Vous ne recevrez aucune rémunération en ce qui concerne l’utilisation de vos images.
 
-## <a name="notices-and-procedure-for-making-claims-of-copyright-infringement"></a>Avis et procédure de réclamation pour violation de droit d’auteur.
+## Avis et procédure de réclamation pour violation de droit d’auteur.
 
 En vertu du titre 17 du Code des États-Unis, article 512(c)(2), les notifications ayant trait à une allégation de violation de droit d’auteur doivent être adressées au mandataire du fournisseur de services. TOUTE QUESTION QUI N’A PAS TRAIT À LA PROCÉDURE DÉCRITE CI-APRÈS DEMEURERA SANS RÉPONSE.
 Consultez la page [Avis et la procédure à suivre en cas d’atteinte au droit d’auteur](https://www.microsoft.com/info/cpyrtinfrg.aspx).
 
-## <a name="links-to-third-party-sites"></a>Liens vers des sites Internet tiers
+## Liens vers des sites Internet tiers
 
 LES LIENS DANS CE SERVICE PEUVENT VOUS FAIRE QUITTER LE SITE DE MICROSOFT. MICROSOFT NE CONTRÔLE AUCUN SITE LIÉ ET N’EST RESPONSABLE DU CONTENU D’AUCUN SITE LIÉ NI D’AUCUN LIEN AFFICHÉ DANS QUELQUE SITE LIÉ QUE CE SOIT NI DES MODIFICATIONS OU MISES À JOUR APPORTÉES À DE TELS SITES. MICROSOFT N’EST RESPONSABLE NI DE LA WEBDIFFUSION NI DE QUELQUE AUTRE FORME DE TRANSMISSION REÇUE DE TOUT SITE LIÉ. MICROSOFT OFFRE CES LIENS POUR VOTRE COMMODITÉ, ET LEUR INCLUSION NE SIGNIFIE PAS QUE MICROSOFT SOUSCRIT À CES SITES.
 
-## <a name="unsolicited-idea-submission-policy-reservation-of-rights-and-feedback"></a>Politique de soumission d’idées non sollicitées, droits réservés et commentaires
+## Politique de soumission d’idées non sollicitées, droits réservés et commentaires
 
 NI MICROSOFT NI AUCUN DE SES EMPLOYÉS N’ACCEPTENT NI NE PRENNENT EN CONSIDÉRATIONS LES IDÉES NON SOLLICITÉES, Y COMPRIS LES IDÉES DE NOUVELLES CAMPAGNES PUBLICITAIRES, LES NOUVELLES PROMOTIONS, LES NOUVEAUX PRODUITS OU NOUVELLES TECHNOLOGIES, LES PROCESSUS, LES DOCUMENTS, LES PLANS MARKETING OU LES NOUVEAUX NOMS DE PRODUIT. VEUILLEZ N’ENVOYER NI TRAVAUX DE CRÉATION, NI ÉCHANTILLON, NI DÉMONSTRATION, NI AUTRES TRAVAUX. LE SEUL OBJECTIF DE CETTE POLITIQUE EST D’ÉVITER DES MÉSENTENTES OU DES LITIGES POTENTIELS LORSQUE DES PRODUITS MICROSOFT OU DES STRATÉGIES MARKETING PEUVENT SEMBLER SIMILAIRES AUX IDÉES SOUMISES À MICROSOFT. VEUILLEZ DONC NE PAS TRANSMETTRE D'IDÉES NON SOLLICITÉES À MICROSOFT NI À AUCUN DE SES EMPLOYÉS. SI, NONOBSTANT NOTRE DEMANDE, VOUS NOUS TRANSMETTEZ VOS IDÉES ET DOCUMENTS, VEUILLEZ NOTER QUE MICROSOFT NE VOUS GARANTIT AUCUNEMENT QUE VOS IDÉES ET DOCUMENTS SERONT TRAITÉS COMME CONFIDENTIELS OU EXCLUSIFS.
 

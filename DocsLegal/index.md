@@ -4,13 +4,13 @@ description: 'Informations sur les conditions d’utilisation de Microsoft, le R
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Les ressources juridiques de Microsoft se trouvent sur learn.microsoft.com
+# Les ressources juridiques de Microsoft se trouvent sur learn.microsoft.com
 
 Les liens ci-dessous vous dirigeront vers les ressources juridiques.
 
