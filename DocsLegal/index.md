@@ -3,8 +3,7 @@ title: Ressources juridiques de Microsoft
 description: 'Informations sur les conditions d’utilisation de Microsoft, le RGPD, la protection des renseignements, les conditions de licence des logiciels, etc.'
 author: GrantMeStrength
 ms.author: jken
-ms.prod: legal
-ms.topic: legal
+ms.service: legal
 ms.date: 11/25/2020
 ---
 
