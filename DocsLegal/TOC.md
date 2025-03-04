@@ -3,6 +3,7 @@
 # [Conditions de licence des logiciels Azure](/legal/information-protection/software-license-terms)
 # [Contrat de développeur Microsoft](MDSA.md)
 # [Conditions d’utilisation](/legal/termsofuse)
+# [Code de conduite de l’IA](/legal/ai-code-of-conduct)
 # [Code de conduite de Learn TV](/legal/learntv/codeofconduct)
 # [Conditions de partage des données de Learn](/legal/learn/reporting/terms)
 
