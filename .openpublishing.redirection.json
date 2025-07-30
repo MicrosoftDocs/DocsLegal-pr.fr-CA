@@ -114,6 +114,16 @@
         "source_path": "DocsLegal/cognitive-services/openai/characteristics-and-limitations.md",
         "redirect_url": "/legal/cognitive-services/openai/transparency-note",
         "redirect_document_id": false
-        }
+        },
+        {
+            "source_path": "DocsLegal/windows/copilotplus-claims.md",
+            "redirect_url": "/windows/deployment/performance-lab/claims-disclosures",
+            "redirect_document_id": false   
+        },  
+        {
+            "source_path": "DocsLegal/windows/windows11-performance-claims.md",
+            "redirect_url": "/windows/deployment/performance-lab/claims-disclosures",
+            "redirect_document_id": false   
+        }        
     ]
 }
